@@ -1,3 +1,10 @@
+CommonAdapter
+=====
+[![](https://jitpack.io/v/TimChenDev/baseAdapter.svg)](https://jitpack.io/#TimChenDev/baseAdapter)
+
+Froked from [hongyangAndroid/baseAdapter](https://github.com/hongyangAndroid/baseAdapter)
+新增ClickListener, 不用每次實現ClickListener
+
 # base-adapter
 Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。
 
